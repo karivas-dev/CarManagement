@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UDB\\CarManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0AF497-BAEB-4890-A8A3-C47042A6D87C}|CarManagement\\CarManagement.csproj|c:\\udb\\carmanagement\\carmanagement\\controllers\\modelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0AF497-BAEB-4890-A8A3-C47042A6D87C}|CarManagement\\CarManagement.csproj|solutionrelative:carmanagement\\controllers\\modelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0AF497-BAEB-4890-A8A3-C47042A6D87C}|CarManagement\\CarManagement.csproj|c:\\udb\\carmanagement\\carmanagement\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0AF497-BAEB-4890-A8A3-C47042A6D87C}|CarManagement\\CarManagement.csproj|solutionrelative:carmanagement\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0AF497-BAEB-4890-A8A3-C47042A6D87C}|CarManagement\\CarManagement.csproj|c:\\udb\\carmanagement\\carmanagement\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0AF497-BAEB-4890-A8A3-C47042A6D87C}|CarManagement\\CarManagement.csproj|solutionrelative:carmanagement\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0AF497-BAEB-4890-A8A3-C47042A6D87C}|CarManagement\\CarManagement.csproj|c:\\udb\\carmanagement\\carmanagement\\models\\carmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0AF497-BAEB-4890-A8A3-C47042A6D87C}|CarManagement\\CarManagement.csproj|solutionrelative:carmanagement\\models\\carmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0AF497-BAEB-4890-A8A3-C47042A6D87C}|CarManagement\\CarManagement.csproj|c:\\udb\\carmanagement\\carmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0AF497-BAEB-4890-A8A3-C47042A6D87C}|CarManagement\\CarManagement.csproj|solutionrelative:carmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0AF497-BAEB-4890-A8A3-C47042A6D87C}|CarManagement\\CarManagement.csproj|c:\\udb\\carmanagement\\carmanagement\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0AF497-BAEB-4890-A8A3-C47042A6D87C}|CarManagement\\CarManagement.csproj|solutionrelative:carmanagement\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModelsController.cs",
+              "DocumentMoniker": "C:\\UDB\\CarManagement\\CarManagement\\Controllers\\ModelsController.cs",
+              "RelativeDocumentMoniker": "CarManagement\\Controllers\\ModelsController.cs",
+              "ToolTip": "C:\\UDB\\CarManagement\\CarManagement\\Controllers\\ModelsController.cs",
+              "RelativeToolTip": "CarManagement\\Controllers\\ModelsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:54:31.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\UDB\\CarManagement\\CarManagement\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "CarManagement\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\UDB\\CarManagement\\CarManagement\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "CarManagement\\Controllers\\CarsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:54:23.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "C:\\UDB\\CarManagement\\CarManagement\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "CarManagement\\Controllers\\BrandsController.cs",
+              "ToolTip": "C:\\UDB\\CarManagement\\CarManagement\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "CarManagement\\Controllers\\BrandsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:53:33.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarManagementContext.cs",
+              "DocumentMoniker": "C:\\UDB\\CarManagement\\CarManagement\\Models\\CarManagementContext.cs",
+              "RelativeDocumentMoniker": "CarManagement\\Models\\CarManagementContext.cs",
+              "ToolTip": "C:\\UDB\\CarManagement\\CarManagement\\Models\\CarManagementContext.cs",
+              "RelativeToolTip": "CarManagement\\Models\\CarManagementContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:48:21.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\UDB\\CarManagement\\CarManagement\\Program.cs",
+              "RelativeDocumentMoniker": "CarManagement\\Program.cs",
+              "ToolTip": "C:\\UDB\\CarManagement\\CarManagement\\Program.cs",
+              "RelativeToolTip": "CarManagement\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:09:50.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\UDB\\CarManagement\\CarManagement\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "CarManagement\\Models\\Usuario.cs",
+              "ToolTip": "C:\\UDB\\CarManagement\\CarManagement\\Models\\Usuario.cs",
+              "RelativeToolTip": "CarManagement\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:08:59.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
